@@ -63,7 +63,7 @@ Average case kapsamına girer.
 ##### Soru 1) Yukarıdaki dizinin sort türüne göre aşamalarını yazınız.
 
 ```
-will be added
+<center><img src="img/mergeSort.png" alt="merge sort"></center>
 ```
 
 ##### Soru 2) Big-O gösterimini yapınız.
