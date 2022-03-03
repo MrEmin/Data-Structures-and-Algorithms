@@ -75,6 +75,17 @@ O(n logn)
 
 # Binary Search
 
+##### Soru 1) Aşağıdaki dizinin Binary-Search-Tree aşamalarını yazınız.
+
 ```
-...
+[7,5,1,8,3,6,0,9,4,2]
 ```
+
+```
+Küçükten büyüğe sıralama
+[0,1,2,3,4,5,6,7,8,9]
+Root Değer = 5
+Binary Search:
+```
+
+<center><img src="img/binarySearch.png" alt="binary search"></center>
