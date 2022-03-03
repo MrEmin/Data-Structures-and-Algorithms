@@ -88,4 +88,4 @@ Root Değer = 5
 Binary Search:
 ```
 
-<center><img src="img/binarySearch.png" alt="binary search"></center>
+<center><img src="img/binary.svg" alt="binary search"></center>
