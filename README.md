@@ -62,7 +62,7 @@ Average case kapsamına girer.
 
 ##### Soru 1) Yukarıdaki dizinin sort türüne göre aşamalarını yazınız.
 
-<center><img src="img/mergeSort.png" alt="merge sort"></center>
+<center><img src="img/mergeSort.svg" alt="merge sort"></center>
 
 ##### Soru 2) Big-O gösterimini yapınız.
 
@@ -88,4 +88,4 @@ Root Değer = 5
 Binary Search:
 ```
 
-<center><img src="img/binary2.svg" alt="binary search"></center>
+<center><img src="img/binary.svg" alt="binary search"></center>
